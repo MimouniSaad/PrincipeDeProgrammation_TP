@@ -78,3 +78,4 @@ src/
 | `Etudiant.java`      | Modèle de données représentant un étudiant |
 | `readme.md`          | Documentation du projet                    |
 
+# Test OpenProject integration
